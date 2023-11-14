@@ -9,3 +9,6 @@
 3) Для каждого класса предусмотреть метод вывода информации.
 
 №10	Квитанция, накладная, документ, счет
+
+
+Работающий пример (exe, zip) [тут](https://github.com/relativemodder/lab7-inheritance/releases/tag/Release)
